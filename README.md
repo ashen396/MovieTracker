@@ -2,6 +2,10 @@
 https://movie-tracker-lilac-delta.vercel.app/
 ***
 
+## Screenshots
+<img width="1920" height="921" alt="image" src="https://github.com/user-attachments/assets/7153ab1f-f414-447e-afa4-58f3a8a1071a" />
+<img width="1920" height="922" alt="image" src="https://github.com/user-attachments/assets/35d615a6-ff68-46cb-8ea5-00d10f1fdedb" />
+
 ## Getting Started
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
